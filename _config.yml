@@ -2,8 +2,8 @@ title: Spencer Lab
 description: >-
   Placeholder mission statement — replace this in _config.yml with a
   one-sentence description of what the lab studies.
-baseurl: "/spencer_lab"
-url: "https://gargollo.github.io"
+baseurl: ""
+url: "https://spencerlab.stanford.edu"
 
 # Top navigation, in order. Edit labels/links here — this is the ONLY
 # place the nav is defined; header.html just loops over this list.
