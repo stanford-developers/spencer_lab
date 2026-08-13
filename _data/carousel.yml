@@ -5,5 +5,6 @@
   #alt: "Lab members in the field"
 - image: "/assets/images/carousel/Lab2.jpg"
   #alt: "Sample analysis in the lab"
-- #image: "/assets/images/carousel/photo3.jpg"
+
+#- image: "/assets/images/carousel/photo3.jpg"
   #alt: "Team meeting"
