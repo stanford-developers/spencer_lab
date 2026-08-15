@@ -387,6 +387,34 @@ nav.main-nav a.active {
   .news-item { grid-template-columns: 1fr; }
 }
 
+/* ---------- labnews ---------- */
+.feed-list {
+  margin-top: var(--space-3);
+  max-width: 640px;
+}
+.feed-item {
+  padding: var(--space-2) 0;
+  border-left: 2px solid var(--gray-20);
+  padding-left: var(--space-3);
+  margin-bottom: var(--space-2);
+}
+.feed-item h3 {
+  font-size: 1rem;
+  margin-bottom: 2px;
+}
+.feed-date {
+  font-size: 0.78rem;
+  font-weight: 700;
+  color: var(--palo-alto);
+  letter-spacing: 0.03em;
+  margin-bottom: 2px;
+}
+.feed-item p {
+  color: var(--cool-gray);
+  font-size: 0.92rem;
+  margin-bottom: 0;
+}
+
 /* ---------- footer ---------- */
 .site-footer {
   border-top: 1px solid var(--gray-20);

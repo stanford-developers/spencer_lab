@@ -1,0 +1,27 @@
+---
+layout: default
+title: Lab News
+permalink: /lab-news/
+---
+
+<section class="hero">
+  <div class="wrap">
+    <p class="eyebrow">Lab News</p>
+    <h1>What's happening in the lab</h1>
+    <hr class="hero-rule">
+  </div>
+</section>
+
+<section class="section">
+  <div class="wrap">
+    <div class="feed-list">
+      {% for item in site.data.lab_news %}
+        <article class="feed-item">
+          <div class="feed-date">{{ item.date }}</div>
+          <h3>{{ item.title }}</h3>
+          <p>{{ item.body }}</p>
+        </article>
+      {% endfor %}
+    </div>
+  </div>
+</section>

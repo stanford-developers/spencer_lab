@@ -1,0 +1,13 @@
+# Internal lab news feed — day-to-day happenings, no images needed.
+# Add a new entry at the top for the most recent item.
+
+- date: "August 2026"
+  title: "Placeholder feed item"
+  body: >
+    Short update — a new team member starting, a talk given, a grant
+    submitted, a fun lab outing, etc.
+
+- date: "July 2026"
+  title: "Another placeholder item"
+  body: >
+    Another short update.

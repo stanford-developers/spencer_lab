@@ -7,6 +7,7 @@ url: "https://spencerlab.stanford.edu"
 
 # Top navigation, in order. Edit labels/links here — this is the ONLY
 # place the nav is defined; header.html just loops over this list.
+
 nav:
   - title: Home
     url: /
@@ -14,8 +15,10 @@ nav:
     url: /research/
   - title: Publications
     url: /publications/
-  - title: News
+  - title: Press
     url: /news/
+  - title: Lab News
+    url: /lab-news/
   - title: People
     url: /people/
 
