@@ -2,12 +2,31 @@
 # Add a new entry at the top for the most recent item.
 
 - date: "August 2026"
-  title: "Placeholder feed item"
+  title: "New member joins the lab!"
   body: >
-    Short update — a new team member starting, a talk given, a grant
-    submitted, a fun lab outing, etc.
+    Jacob Hizon started his position as a Clinical Research Coordinator Associate.
 
 - date: "July 2026"
-  title: "Another placeholder item"
+  title: "New member joins the lab!"
   body: >
-    Another short update.
+    William Rubin joined the lab as a Life Sciences Research Professional.
+
+
+#
+#- date: "July 2026"
+ # title: "New member joins the lab!"
+  #body: >
+  #  Another short update.
+
+#- date: "July 2026"
+ # title: "New member joins the lab!"
+  #body: >
+  #  Another short update.
+
+#- date: "July 2026"
+ # title: "New member joins the lab!"
+  #body: >
+  #  Another short update.
+
+
+
