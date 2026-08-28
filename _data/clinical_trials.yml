@@ -1,0 +1,29 @@
+# Ongoing clinical studies. Add/remove/edit entries below — each
+# becomes one blurb in the "Ongoing Clinical Studies" section.
+
+- title: "Stanford Microbiome Bank"
+  description: >
+    This research study aims to building a general gut microbiome biobank. The primary 
+    purpose of the study is to enroll adult participants, sequence and characterize their 
+    gut microbiomes, collect health and symptom information, and store samples and data to 
+    inform future research and therapies. As an optional secondary pathway, some participants 
+    may be screened and, if qualified, may choose to become stool donors. Donated stool 
+    from qualified donors may be used to help develop microbiota transplantation therapy 
+    (MTT), a treatment that uses stool from a healthy donor to help restore a sick person's 
+    gut health.This research study is looking for up to 200 people for the general biobank 
+    (part one), and 5-10 people who qualify as stool donors (part two) and live near the 
+    Stanford Campus.
+  inclusion: "Any person aged 18-80 years. In good general health as evidenced by medical history.
+   Ability to travel to donation facility on a weekly basis. Residence within 5 miles of Stanford Campus."
+  exclusion: "N/A"
+  link: "https://redcap.stanford.edu/surveys/?s=CATA3R349MRWALNA"
+
+#- title: "Placeholder Study Two"
+ # description: >
+  #  Description of the second ongoing study.
+  #inclusion: "Placeholder inclusion criteria."
+  #exclusion: "Placeholder exclusion criteria."
+  #link: "https://redcap.stanford.edu/placeholder-survey-link-2"
+
+
+  

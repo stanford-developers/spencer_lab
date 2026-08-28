@@ -25,7 +25,8 @@ permalink: /research/
       {% for area in site.data.research %}
         <li><a href="#{{ area.title | slugify }}">{{ area.title }}</a></li>
       {% endfor %}
-    </ul>
+    </ul> 
+    <a href="#clinical-studies" class="clinical-studies-btn">Ongoing Clinical Studies</a>
   </div>
 </nav>
 
@@ -37,5 +38,23 @@ permalink: /research/
         <p>{{ area.summary }}</p>
       </article>
     {% endfor %}
+  </div>
+</section>
+
+<section class="section alt" id="clinical-studies">
+  <div class="wrap">
+    <p class="section-label">Ongoing Clinical Studies</p>
+    <h2>Current studies enrolling now</h2>
+    <div class="trials-list">
+      {% for trial in site.data.clinical_trials %}
+        <article class="trial-item">
+          <h3>{{ trial.title }}</h3>
+          <p>{{ trial.description }}</p>
+          <p class="trial-criteria"><strong>Inclusion:</strong> {{ trial.inclusion }}</p>
+          <p class="trial-criteria"><strong>Exclusion:</strong> {{ trial.exclusion }}</p>
+          <a href="{{ trial.link }}" target="_blank" rel="noopener" class="trial-link">Take the survey &rarr;</a>
+        </article>
+      {% endfor %}
+    </div>
   </div>
 </section>

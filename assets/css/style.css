@@ -506,3 +506,52 @@ nav.main-nav a.active {
 .research-block h2 {
   color: var(--cardinal);
 }
+
+/* Sticky bar layout: nav links left, button pinned right */
+.research-index-row {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: var(--space-2);
+}
+.clinical-studies-btn {
+  flex-shrink: 0;
+  background: var(--cardinal);
+  color: var(--white);
+  font-size: 0.85rem;
+  font-weight: 700;
+  padding: 8px 16px;
+  border-radius: 4px;
+  border-bottom: none;
+}
+.clinical-studies-btn:hover {
+  background: var(--cardinal-dark);
+  border-bottom: none;
+}
+
+/* Clinical trials section */
+.trials-list {
+  margin-top: var(--space-3);
+  display: grid;
+  gap: var(--space-4);
+}
+.trial-item {
+  background: var(--white);
+  border-left: 3px solid var(--palo-alto);
+  padding: var(--space-3);
+  border-radius: 4px;
+}
+.trial-item h3 {
+  margin-bottom: var(--space-1);
+}
+.trial-criteria {
+  font-size: 0.9rem;
+  color: var(--cool-gray);
+  margin-bottom: 4px;
+}
+.trial-link {
+  display: inline-block;
+  margin-top: var(--space-1);
+  font-weight: 700;
+}
