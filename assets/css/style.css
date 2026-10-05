@@ -558,7 +558,10 @@ nav.main-nav a.active {
 .person {
   max-width: 300px;
 }
-/* Header: logo on the left, sized to the title + menu stack */
+/* Header: logo on the left, filling the full banner height */
+.site-header {
+  padding: 0;
+}
 .site-header .wrap {
   display: flex;
   align-items: center;
@@ -573,7 +576,7 @@ nav.main-nav a.active {
   border-bottom: none;
 }
 .site-logo {
-  height: 30px;          /* ← size dial: lower = smaller, higher = taller */
+  height: 90px;               /* ← this sets the banner height; raise or lower to taste */
   width: auto;
   display: block;
 }
