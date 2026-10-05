@@ -558,3 +558,30 @@ nav.main-nav a.active {
 .person {
   max-width: 300px;
 }
+/* Header: logo on the left, sized to the title + menu stack */
+.site-header .wrap {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  flex-wrap: nowrap;
+  gap: 20px;
+}
+.site-logo-link {
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+  border-bottom: none;
+}
+.site-logo {
+  height: 64px;          /* ← size dial: lower = smaller, higher = taller */
+  width: auto;
+  display: block;
+}
+.site-header-text {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+}
+.site-title {
+  display: block;
+}
