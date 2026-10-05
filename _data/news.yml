@@ -1,6 +1,17 @@
-# press/news, most recent first. Duplicate a block below for each item.
+# Lab news, most recent first. Duplicate a block below for each item.
 # "date" just needs to be readable text (e.g. "July 2026") — it's for
 # display, not sorted automatically, so keep newest at the top.
+
+- date: "June 2026"
+  title: "Scientists Say These Popular Fermented Foods May Have Bigger Health Benefits Than We Realized"
+  image: ""
+  link: "https://www.mensjournal.com/health/fermented-foods-health-benefits-gut-health"
+  body: >
+    Men's Journal rounds up the latest science on fermented foods like yogurt,
+    kimchi, kefir, and sauerkraut and why researchers think they may support gut
+    health, inflammation, and metabolism. The piece features the lab's own
+    Sean Spencer, MD, PhD, on the fermentation-derived compounds now being
+    studied for their metabolic effects.
 
 - date: "March 2026"
   title: "Can You Overdo Fiber? The Rise—and Risks—of Fibermaxxing"
