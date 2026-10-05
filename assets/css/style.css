@@ -573,7 +573,7 @@ nav.main-nav a.active {
   border-bottom: none;
 }
 .site-logo {
-  height: 64px;          /* ← size dial: lower = smaller, higher = taller */
+  height: 10px;          /* ← size dial: lower = smaller, higher = taller */
   width: auto;
   display: block;
 }
