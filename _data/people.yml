@@ -3,8 +3,8 @@
 # blank (photo: "") to show a placeholder square instead of a broken image.
 # Put photo files in /assets/images/people/ and reference them like
 # "/assets/images/people/jsmith.jpg"
- 
-  # Lab roster, grouped into sections. Each section has a "section" name
+
+# Lab roster, grouped into sections. Each section has a "section" name
 # and a list of "people". Add/remove people within a section by
 # copying a person block; add a whole new section by copying a
 # "- section:" block.
@@ -16,16 +16,16 @@
       photo: "/assets/images/people/spencer_lab.jpg"
       bio: "Gastroenterologist and Physician Scientist at Stanford University"
       full_bio: >
-        Sean Spencer, MD,PhD is a Gastroenterologist and Physician Scientist —
-        at Stanford University working to uncover the role of dietary intake 
-        and the gut microbiome in gastrointestinal disease. Sean obtained his 
-        medical degree University of Pennsylvania, earning his PhD studying 
+        Sean Spencer, MD,PhD is a Gastroenterologist and Physician Scientist
+        at Stanford University working to uncover the role of dietary intake
+        and the gut microbiome in gastrointestinal disease. Sean obtained his
+        medical degree University of Pennsylvania, earning his PhD studying
         nutritional immunology with Yasmine Belkaid, PhD at the National Institutes of Health (NIH),
         after which he moved to Boston for residency training at Massachusetts General Hospital
-        and completed his Gastroenterology training at Stanford University where he studied 
-        fermented food-immune interactions in the lab of Justin Sonnenburg, PhD. Sean has 
-        launched a microbiome-focused clinical practice and laboratory at Stanford where he employs 
-        novel diagnostic and therapeutic modalities to better understand and treat his patients with GI disease. 
+        and completed his Gastroenterology training at Stanford University where he studied
+        fermented food-immune interactions in the lab of Justin Sonnenburg, PhD. Sean has
+        launched a microbiome-focused clinical practice and laboratory at Stanford where he employs
+        novel diagnostic and therapeutic modalities to better understand and treat his patients with GI disease.
         Contact: <a href="mailto:sspencer@stanford.edu">sspencer@stanford.edu</a>
       link: ""
 
@@ -36,10 +36,10 @@
       photo: "/assets/images/people/AW.jpeg"
       bio: "Postdoctoral scholar focused on prebiotic metabolization of fiber."
       full_bio: >
-        Annika is a postdoctoral scholar in the Spencer Lab studying how gut microbes metabolize prebiotic fibers 
-        to produce bioactive metabolites linked to lowering disease risk. She holds an MS in Human Nutrition from 
-        the University of Sheffield and a PhD in Food Science and Human Nutrition from Colorado State University. 
-        Her work integrates multi-omic approaches to map diet-microbe-metabolite relationships. Annika aims to 
+        Annika is a postdoctoral scholar in the Spencer Lab studying how gut microbes metabolize prebiotic fibers
+        to produce bioactive metabolites linked to lowering disease risk. She holds an MS in Human Nutrition from
+        the University of Sheffield and a PhD in Food Science and Human Nutrition from Colorado State University.
+        Her work integrates multi-omic approaches to map diet-microbe-metabolite relationships. Annika aims to
         translate these mechanistic insights into microbiome-informed dietary strategies for reducing chronic diseases.
         Contact: <a href="mailto:amweber@stanford.edu">amweber@stanford.edu</a>
       link: ""
@@ -49,13 +49,13 @@
       photo: "/assets/images/people/Siddu.jpeg"
       bio: "Postdoctoral scholar focused on microbial metabolites and their impact on host health."
       full_bio: >
-        Siddu earned his Ph.D. in Biomedical Engineering and M.S. in Horticultural Sciences from 
-        Texas A&M University, where his doctoral work uncovered how gut microbiota-derived tryptophan 
-        metabolites signal to the intestinal epithelium. In the Spencer Lab, he uses targeted LC-MS/MS 
-        metabolomics and gnotobiotic mouse models to connect microbial metabolites to host immune and 
-        epithelial responses. Originally from Dharwad, India, Siddu is especially drawn to fermentation 
-        and how fermented foods shape the microbiome, and he hopes to translate that science into foods 
-        and therapies that improve everyday health. In his spare time, he plays cricket, hikes the trails 
+        Siddu earned his Ph.D. in Biomedical Engineering and M.S. in Horticultural Sciences from
+        Texas A&M University, where his doctoral work uncovered how gut microbiota-derived tryptophan
+        metabolites signal to the intestinal epithelium. In the Spencer Lab, he uses targeted LC-MS/MS
+        metabolomics and gnotobiotic mouse models to connect microbial metabolites to host immune and
+        epithelial responses. Originally from Dharwad, India, Siddu is especially drawn to fermentation
+        and how fermented foods shape the microbiome, and he hopes to translate that science into foods
+        and therapies that improve everyday health. In his spare time, he plays cricket, hikes the trails
         around the Bay, picks up new skills whenever he can, and cooks Indian food at home.
         <a href="mailto:siddu04@stanford.edu">siddu04@stanford.edu</a>
       link: "siddu04@stanford.edu"
@@ -64,14 +64,14 @@
       role: "Postdoctoral Scholar"
       photo: "/assets/images/people/JS.JPEG"
       bio: "Postdoctoral scholar studying microbial community assembly and microbiome-immune interactions."
-      full_bio:
-       Jiawei is a postdoctoral scholar interested in the organizing principles of microbial communities 
-       and their interactions with the host immune system. He earned his Ph.D. in Bioengineering from Stanford 
-       University, where he used microscopy and microfluidics to study the physical principles that organize 
-       the bacterial cell surface. In the Spencer Lab, Jiawei studies how microbial communities and mucosal 
-       immune responses shape one another using defined microbial communities and gnotobiotic models. More 
-       broadly, he likes to think about complex living systems in quantitative ways. Outside the lab, he enjoys 
-       sports with a net (badminton, tennis, ping pong etc.) and exploring good restaurants.
+      full_bio: >
+        Jiawei is a postdoctoral scholar interested in the organizing principles of microbial communities
+        and their interactions with the host immune system. He earned his Ph.D. in Bioengineering from Stanford
+        University, where he used microscopy and microfluidics to study the physical principles that organize
+        the bacterial cell surface. In the Spencer Lab, Jiawei studies how microbial communities and mucosal
+        immune responses shape one another using defined microbial communities and gnotobiotic models. More
+        broadly, he likes to think about complex living systems in quantitative ways. Outside the lab, he enjoys
+        sports with a net (badminton, tennis, ping pong etc.) and exploring good restaurants.
         <a href="mailto:jsun2019@stanford.edu">jsun2019@stanford.edu</a>
       link: ""
 
@@ -81,11 +81,11 @@
       role: "Clinical Research Co-ordinator 2"
       photo: "/assets/images/people/RS.jpeg"
       bio: ""
-      full_bio: 
-        Roujheen earned her Master of Public Health in Nutrition from UC Berkeley and brings over five years of research 
-        experience, primarily focused on nutrition and the microbiome. Prior to joining the Spencer Lab, she worked with 
-        the Nutrition Studies Research Group at Stanford as a Study Coordinator, where she supported multiple projects 
-        ranging from maternal and infant microbiome interventions to diet-based cancer prevention research in firefighters. 
+      full_bio: >
+        Roujheen earned her Master of Public Health in Nutrition from UC Berkeley and brings over five years of research
+        experience, primarily focused on nutrition and the microbiome. Prior to joining the Spencer Lab, she worked with
+        the Nutrition Studies Research Group at Stanford as a Study Coordinator, where she supported multiple projects
+        ranging from maternal and infant microbiome interventions to diet-based cancer prevention research in firefighters.
         Beyond her research work, Roujheen likes experimenting with new recipes and participating in grassroots community building efforts.
         <a href="mailto:rsabetan@stanford.edu">rsabetan@stanford.edu</a>
       link: "rsabetan@stanford.edu"
@@ -95,42 +95,29 @@
       photo: "/assets/images/people/AA.jpg"
       bio: ""
       full_bio: >
-        Aubrey brings over 12 years of human subjects research experience and previously worked on studies from a variety 
-        of disciplines such as Psychology, Neonatology, Infectious Diseases, and Oncology before hitting her stride in 
-        Gastroenterology and Hepatology. Aubrey is a Bay Area native and aspires in her career to bring opportunities for 
-        novel treatments and therapies to her local communities, especially the underserved and underrepresented. In 
+        Aubrey brings over 12 years of human subjects research experience and previously worked on studies from a variety
+        of disciplines such as Psychology, Neonatology, Infectious Diseases, and Oncology before hitting her stride in
+        Gastroenterology and Hepatology. Aubrey is a Bay Area native and aspires in her career to bring opportunities for
+        novel treatments and therapies to her local communities, especially the underserved and underrepresented. In
         her spare time, she loves to spend time with her husband and loved ones, travel, and defend her 1000+ day Duolingo streak.
         <a href="mailto:aadiao@stanford.edu">aadiao@stanford.edu</a>
       link: ""
 
-    - name: "Maria Gargollo"
-      role: "Master's Student"
-      photo: "/assets/images/people/MG.jpg"
-      bio: ""
-      full_bio: >
-        Maria is a Master’s student in Translational Research and Applied Medicine at Stanford School of Medicine. 
-        Her academic and professional interests lie at the intersection of biomedical innovation and regulatory science. Her main 
-        focus is on how regulatory strategy can accelerate access to safe and effective therapies, microbiome based interventions and 
-        preventative measures. Through her training both on the bench and the pharmaceutical sector, she has gained experience in 
-        clinical research design, scientific communication and cross-disciplinary collaboration. She aims to build a career that 
-        bridges scientific discovery and regulatory decision-making to bring science based solutions to patients.
-        <a href="mailto:gargollo@stanford.edu">gargollo@stanford.edu</a>
-      link: ""
 
     - name: "Jacob Hizon"
       role: "Clinical Research Coordinator Associate"
       photo: "/assets/images/people/JH.jpeg"
       bio: ""
       full_bio: >
-        "Jacob joined the Spencer Lab in August 2026. He earned his Bachelor
-        of Science in Microbiology from UC San Diego, where he gained hands-on, 
-        microbiome-focused clinical experience alongside foundational wet lab skills. 
-        Jacob is broadly interested in diversifying and strengthening microbiome databases 
-        to support the development of defined synthetic consortia for treating human disease. 
-        Jacob aspires to pursue a career in medicine to help increase accessibility to targeted 
-        microbiome-based care. Outside the lab, he enjoys exploring new coffee shops around the 
-        Bay Area, reading queer literature, and trying new restaurants."
-          <a href="mailto:jthizon@stanford.edu">jthizon@stanford.edu</a>"
+        Jacob joined the Spencer Lab in August 2026. He earned his Bachelor
+        of Science in Microbiology from UC San Diego, where he gained hands-on,
+        microbiome-focused clinical experience alongside foundational wet lab skills.
+        Jacob is broadly interested in diversifying and strengthening microbiome databases
+        to support the development of defined synthetic consortia for treating human disease.
+        Jacob aspires to pursue a career in medicine to help increase accessibility to targeted
+        microbiome-based care. Outside the lab, he enjoys exploring new coffee shops around the
+        Bay Area, reading queer literature, and trying new restaurants.
+        <a href="mailto:jthizon@stanford.edu">jthizon@stanford.edu</a>
       link: ""
 
 - section: "Scientists"
@@ -141,33 +128,34 @@
       bio: ""
       full_bio: >
         Niokhor is a microbial discovery scientist and entrepreneur building next-generation microbiome
-        characterization for Diagnostic and therapeutic. He joined the Spencer Lab in May 2026 as a 
-        Senior Scientist to support and lead the lab's microbial discovery and translational 
-        microbiology efforts, including the development of its culturomics platform. He oversees 
+        characterization for Diagnostic and therapeutic. He joined the Spencer Lab in May 2026 as a
+        Senior Scientist to support and lead the lab's microbial discovery and translational
+        microbiology efforts, including the development of its culturomics platform. He oversees
         the isolation and characterization of gut bacterial strains from the small intestine, and directs
-        the design of microbial consortia and in vitro models for studying diet-microbiome-disease interactions. 
+        the design of microbial consortia and in vitro models for studying diet-microbiome-disease interactions.
         Niokhor holds a DVM and PhD from Aix-Marseille University, where he trained at IHU Méditerranée Infection
         and was part of the team that pioneered the microbial culturomics method, a high-throughput, culture-based
-        approach that has led to the discovery of hundreds of previously unknown bacterial species from the human gut. 
-        Over the course of his career, he has built culturomics laboratories from scratch across three countries in 
-        both academia and industry, and developed microbiome-based products. He brings over 16 years of experience 
-        spanning academic research and the biotechnology industry, with expertise that covers the full pipeline from 
+        approach that has led to the discovery of hundreds of previously unknown bacterial species from the human gut.
+        Over the course of his career, he has built culturomics laboratories from scratch across three countries in
+        both academia and industry, and developed microbiome-based products. He brings over 16 years of experience
+        spanning academic research and the biotechnology industry, with expertise that covers the full pipeline from
         microbial discovery to translational development. Outside the lab, he enjoys spending time with his kids and playing soccer.
         <a href="mailto:ndione@stanford.edu">ndione@stanford.edu</a>
       link: ""
+
     - name: "Anya Raju"
       role: "Life Science Research Professional 1"
       photo: "/assets/images/people/AR.JPG"
       bio: ""
       full_bio: >
-        Anya joined the Spencer lab in April 2026 with a B.S. in Bioengineering and Computer Science 
-        from UC Berkeley. Her interests are in the intersection between clinical research, molecular 
-        biology, and bioinformatics. She has prior experience designing recombinant bacteria and 
-        bioinformatics pipelines for sequencing analysis, and she is excited to learn more about the 
-        human gut microbiome at the Spencer lab. Anya hopes to apply for MD-PhD programs in 2027 and 
-        pursue a career in medicine and translational research. Outside of her time in the lab, she 
+        Anya joined the Spencer lab in April 2026 with a B.S. in Bioengineering and Computer Science
+        from UC Berkeley. Her interests are in the intersection between clinical research, molecular
+        biology, and bioinformatics. She has prior experience designing recombinant bacteria and
+        bioinformatics pipelines for sequencing analysis, and she is excited to learn more about the
+        human gut microbiome at the Spencer lab. Anya hopes to apply for MD-PhD programs in 2027 and
+        pursue a career in medicine and translational research. Outside of her time in the lab, she
         loves to read books and drink coffee.
-         <a href="mailto:anyaraju@stanford.edu">anyaraju@stanford.edu</a>
+        <a href="mailto:anyaraju@stanford.edu">anyaraju@stanford.edu</a>
       link: ""
 
     - name: "William Rubin"
@@ -175,18 +163,27 @@
       photo: "/assets/images/people/WR.jpeg"
       bio: ""
       full_bio: >
-        Will is a Life Science Research Professional who joined the Spencer Lab in July 2026. 
-        He holds a BS in Biology and Applied Physics and an MS in Biology from Tufts University. 
-        Prior to his work in the Spencer Lab, he contributed to research on microbial ecology in 
-        cheese rinds at Tufts and worked in a fermentation lab at a Napa Valley winery. He's currently 
-        assisting in research focused on the development of fermented food-based therapies to improve 
+        Will is a Life Science Research Professional who joined the Spencer Lab in July 2026.
+        He holds a BS in Biology and Applied Physics and an MS in Biology from Tufts University.
+        Prior to his work in the Spencer Lab, he contributed to research on microbial ecology in
+        cheese rinds at Tufts and worked in a fermentation lab at a Napa Valley winery. He's currently
+        assisting in research focused on the development of fermented food-based therapies to improve
         immune health. Outside of the lab, he enjoys hiking, playing piano, and trying new restaurants.
         <a href="mailto:wrubin@stanford.edu">wrubin@stanford.edu</a>
       link: "wrubin@stanford.edu"
 
- #- name: "First Last"
-     # role: "Clinical Team"
-      #photo: ""
-      #bio: "Placeholder bio."
-      #full_bio: ""
-      #link: ""
+- section: "Alumni"
+  people:
+    - name: "Maria Gargollo"
+      role: "Master's Student"
+      photo: "/assets/images/people/MG.jpg"
+      bio: ""
+      full_bio: >
+        Maria is a Master’s student in Translational Research and Applied Medicine at Stanford School of Medicine.
+        Her academic and professional interests lie at the intersection of biomedical innovation and regulatory science. Her main
+        focus is on how regulatory strategy can accelerate access to safe and effective therapies, microbiome based interventions and
+        preventative measures. Through her training both on the bench and the pharmaceutical sector, she has gained experience in
+        clinical research design, scientific communication and cross-disciplinary collaboration. She aims to build a career that
+        bridges scientific discovery and regulatory decision-making to bring science based solutions to patients.
+        <a href="mailto:gargollo@stanford.edu">gargollo@stanford.edu</a>
+      link: ""
