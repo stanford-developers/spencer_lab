@@ -555,3 +555,6 @@ nav.main-nav a.active {
   margin-top: var(--space-1);
   font-weight: 700;
 }
+.person {
+  max-width: 300px;
+}
