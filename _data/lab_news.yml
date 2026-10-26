@@ -1,6 +1,14 @@
 # Internal lab news feed — day-to-day happenings, no images needed.
 # Add a new entry at the top for the most recent item.
 
+- date: "October 2026"
+  title: "The Spencer Lab turns one!"
+  body: >
+    <img src="/assets/images/news/one-year.jpg" alt="The Spencer Lab's first anniversary" onerror="this.style.display='none'" style="width:100%; max-width:420px; height:auto; border-radius:6px; display:block; margin:4px 0 12px;">
+    On October 1, 2026, the Spencer Lab celebrated its first anniversary. One year in,
+    the team has grown and our work on diet, the gut microbiome, and gastrointestinal
+    health is well under way — here's to many more.
+
 - date: "August 2026"
   title: "New member joins the lab!"
   body: >
@@ -27,6 +35,3 @@
  # title: "New member joins the lab!"
   #body: >
   #  Another short update.
-
-
-
