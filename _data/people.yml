@@ -172,7 +172,7 @@
 
     - name: "Andru O'Hara"
       role: "Life Science Technician"
-      photo: "/assets/images/people/Andru_headshot.png"
+      photo: "/assets/images/people/Andru_headshot.jpg"
       bio: ""
       full_bio: >
         Dru joined the Spencer Lab in October 2026. He brings with him a B.S. in Animal Sciences
@@ -181,7 +181,22 @@
         managing rodent research models, he looks forward to contributing his skills in animal welfare
         and husbandry to the use of gnotobiotic mice models for medical advancements. In his free time,
         he enjoys hiking, trying new foods and recipes, watching horror movies, and learning new hobbies.
-      link: "ajcohara@stanford.edu"
+        <a href="mailto:ajcohara@stanford.edu">ajcohara@stanford.edu</a>
+      link: ""
+
+    - name: "Craig Matthews"
+      role: "Life Science Research Professional 2"
+      photo: "/assets/images/people/Craig_headshot.jpg"
+      bio: ""
+      full_bio: >
+        Craig joined the Spencer Lab in September 2026. He earned a BSc in Genetics and MSc in Biology
+        from the University of Western Ontario, followed by academic and industry roles spanning
+        sequencing, microbiology, and biochemistry to study microbial and host-microbe interactions.
+        He is interested in characterizing gut microbial communities, culturing translatable synthetic
+        consortia, and defining how gut microbes shape host immune responses. Outside the lab, Craig
+        enjoys reading, cycling and rock climbing.
+        <a href="mailto:cmatth25@stanford.edu">cmatth25@stanford.edu</a>
+      link: ""
 
 - section: "Alumni"
   people:
