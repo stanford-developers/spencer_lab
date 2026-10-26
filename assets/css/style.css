@@ -515,7 +515,7 @@ nav.main-nav a.active {
   flex-wrap: wrap;
   gap: var(--space-2);
 }
-.clinical-studies-btn {
+.research-index a.clinical-studies-btn {
   flex-shrink: 0;
   background: var(--cardinal);
   color: var(--white);
@@ -525,7 +525,7 @@ nav.main-nav a.active {
   border-radius: 4px;
   border-bottom: none;
 }
-.clinical-studies-btn:hover {
+.research-index a.clinical-studies-btn:hover {
   background: var(--cardinal-dark);
   border-bottom: none;
 }
